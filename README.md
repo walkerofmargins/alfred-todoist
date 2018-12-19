@@ -38,12 +38,12 @@ This will copy all of your lables to your clipboard - If you use lables, you mig
 
 ### There are 6 configurable varibles:
 
-content: Leave this as '{query}' - This will be the To Do item content
-due_lang: Two letter language code - Default is English: https://en.wikipedia.org/wiki/ISO_639-1
-due_string: Human Defined due string - Default is "today at 5pm" https://get.todoist.help/hc/en-us/articles/205325931-Dates-and-Times
-label1: Default is blank, but if you'd like to add a labels, you can get a list of the ones you use by typing "labelstodo"
-priority: Task priority from 1 (normal) to 4 (urgent).
-project_id: Enter your copied project id from step 1, above
+1. content: Leave this as '{query}' - This will be the To Do item content
+2. due_lang: Two letter language code - Default is English: https://en.wikipedia.org/wiki/ISO_639-1
+3. due_string: Human Defined due string - Default is "today at 5pm" https://get.todoist.help/hc/en-us/articles/205325931-Dates-and-Times
+4. label1: Default is blank, but if you'd like to add a labels, you can get a list of the ones you use by typing "labelstodo"
+5. priority: Task priority from 1 (normal) to 4 (urgent).
+6. project_id: Enter your copied project id from step 1, above
 
 You should now be able to create your first Todoist task using Alfred by launching Alfred and writing 
 "todo" followed by your query
