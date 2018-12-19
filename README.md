@@ -3,6 +3,15 @@ A workflow to make API requests Todoist, using alfred
 
 This workflow allows users to make API calls to Todoist, using Alfred. 
 
+This allows you to:
+
+- Create a keyword for each project
+- Create a keyword for each label
+- Create a keyword for each label/project combo
+- Create specific language rules for all of the above
+- Create due date/time rules for all of the above
+- Create priority rules for the above
+
 # Instructions
 ### 1. Pre-requesites
 1. Alfred for MacOS required Alfred Powerpack required before using: https://www.alfredapp.com/
