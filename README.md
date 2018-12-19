@@ -1,4 +1,4 @@
-# todoistalfred
+# todoist-alfred
 A workflow to make API requests Todoist, using alfred
 
 This workflow allows users to make API calls to Todoist, using Alfred, with the primary function being to create new tasks with pre-assigned rules..
