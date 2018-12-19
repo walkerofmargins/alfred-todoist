@@ -1,12 +1,13 @@
 # todoist-alfred
-A workflow to make API requests Todoist, using alfred
+A workflow to make API requests to create tasks in Todoist, using alfred
 
 This workflow allows users to make API calls to Todoist, using Alfred, with the primary function being to create new tasks with pre-assigned rules..
 
 For example, for a work project, I might create a workflow that allows me to:
 
-1. Type "tdwork" followed by "finish my assignment"
-2. This workflow will then, using pre-defined rules, create a new task with a pre-defined: priority, language, due date, label and project.
+- Type "tdwork" followed by "finish my assignment"
+- This workflow will then, using pre-defined rules, create a new task with a pre-defined: priority, language, due date, label and project.
+- The outcome could be: "finish my assignment", priority: 3, due date: today at 5pm, project: work, labels: "30 mins"
 
 This allows you to:
 
