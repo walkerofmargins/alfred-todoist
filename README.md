@@ -20,7 +20,7 @@ This allows you to:
 
 # Instructions
 ### 1. Pre-requesites
-1. Alfred for MacOS required Alfred Powerpack required before using: https://www.alfredapp.com/
+1. Alfred for MacOS including the Alfred Powerpack required before using: https://www.alfredapp.com/
 2. A Todoist Premium license is required before using: https://todoist.com/r/andy_wingrave_errvgl
 
 ### 2. Download and install workflow
