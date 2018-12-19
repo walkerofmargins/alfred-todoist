@@ -5,30 +5,30 @@ This workflow allows users to make API calls to Todoist, using Alfred.
 
 # Instructions
 ### 1. Pre-requesites
-Alfred for MacOS required Alfred Powerpack required before using: https://www.alfredapp.com/
-A Todoist Premium license is required before using: https://todoist.com/r/andy_wingrave_errvgl
+1. Alfred for MacOS required Alfred Powerpack required before using: https://www.alfredapp.com/
+2. A Todoist Premium license is required before using: https://todoist.com/r/andy_wingrave_errvgl
 
 ### 2. Download and install workflow
-Download the workflow from github
-Drag and drop it into Alfred workflows
+1. Download the workflow from github
+2. Drag and drop it into Alfred workflows
 
 ### 3. Get your bearer token from Todoist 
-Navigate to https://todoist.com/prefs/integrations
-Scroll down to the bottom for your integration token
-Copy it to your clipboard
+1. Navigate to https://todoist.com/prefs/integrations
+2. Scroll down to the bottom for your integration token
+3. Copy it to your clipboard
 
 ### 4. Insert your bearer token into your workflow
-Within the workflow, navigate to [x] in the top right - Environment Variable
-Create an environment variable with the name "bearer" 
-Insert the value in your clipboard as the corresponding value
+1. Within the workflow, navigate to [x] in the top right - Environment Variable
+2. Create an environment variable with the name "bearer" 
+3. Insert the value in your clipboard as the corresponding value
 
 ### 5. Grab a list of your projects [IMPORTANT]
-Using your alfred shortcut type "projectstodo"
-This will copy all of your projects to your clipboard - you will need these to create your own bespoke workflows
+1. Using your alfred shortcut type "projectstodo"
+2. This will copy all of your projects to your clipboard - you will need these to create your own bespoke workflows
 
 ### 6. Grab a list of your lables [OPTIONAL]
-Using your alfred shortcut type "labelstodo"
-This will copy all of your lables to your clipboard - If you use lables, you might want to consider this 
+1. Using your alfred shortcut type "labelstodo"
+2. This will copy all of your lables to your clipboard - If you use lables, you might want to consider this 
 
 ## Configure your first project keyword - Example
 
