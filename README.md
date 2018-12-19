@@ -5,8 +5,8 @@ This workflow allows users to make API calls to Todoist, using Alfred.
 
 # Instructions
 ### 1. Pre-requesites
-Alfred for MacOS required Alfred Powerpack required before using
-A Todoist Premium license is required before using
+Alfred for MacOS required Alfred Powerpack required before using: https://www.alfredapp.com/
+A Todoist Premium license is required before using: https://todoist.com/r/andy_wingrave_errvgl
 
 ### 2. Download and install workflow
 Download the workflow from github
