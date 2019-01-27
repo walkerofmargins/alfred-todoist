@@ -45,13 +45,19 @@ This allows you to:
 1. Using your alfred shortcut type "labelstodo"
 2. This will copy all of your lables to your clipboard - If you use lables, you might want to consider this 
 
-## 7. Configure your first project keyword - Example
+### 7. Configure your first project keyword - Example
 
-In the list filter Configure your projects - There is a placeholder - edit or delete it. 
+In the list filter (with keyword "td"), Configure your projects by doubleclicking on the step. There is a placeholder - edit or delete it. 
 
 - Name: Project Name
 - Subname: (Whatever you want)
 - Arg: Project ID
+
+### 8. Update the variables you want to be added to EVERY task
+
+In my own project, I have a number of filters, and variable that depend on specific projects being chosen, but in the example app, I've kept it simple - Every project gets the same variables. 
+
+Please let me know if you'd like me to add some instructions on how to manage this bit, and I'll try to update it
 
 ### There are 6 configurable varibles:
 
