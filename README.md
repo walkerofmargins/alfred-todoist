@@ -45,11 +45,13 @@ This allows you to:
 1. Using your alfred shortcut type "labelstodo"
 2. This will copy all of your lables to your clipboard - If you use lables, you might want to consider this 
 
-## Configure your first project keyword - Example
+## 7. Configure your first project keyword - Example
 
-1. In your list of project IDs, navigate to the top - where you'll see the project ID for "Inbox" - Copy it
-2. Navigate to the "vars" utility in the workflow - Double click it. This is where we will configure the default behaviour for your Inbox
-3. Configure your variables
+In the list filter Configure your projects - There is a placeholder - edit or delete it. 
+
+- Name: Project Name
+- Subname: (Whatever you want)
+- Arg: Project ID
 
 ### There are 6 configurable varibles:
 
